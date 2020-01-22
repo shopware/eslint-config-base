@@ -1,5 +1,4 @@
 {
-  "private": true,
   "name": "@shopware-ag/eslint-config-base",
   "version": "1.0.0",
   "description": "Common webpack configuration for several Shopware related projects",
